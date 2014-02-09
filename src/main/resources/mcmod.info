@@ -1,0 +1,18 @@
+[
+{
+  "modid": "maidvillager",
+  "name": "MaidVillager",
+  "description":"",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "Ferne"],
+  "credits": "Furia",
+  "logoFile": "",
+  "parent":"",
+  "screenshots": [],
+  "requiredMods": [],
+  "dependencies": []
+}
+]
