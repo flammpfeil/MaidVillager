@@ -10,3 +10,5 @@ nopublish
 build
 eclipse
 *.iml
+*.ipr
+*.iws
