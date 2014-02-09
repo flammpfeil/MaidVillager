@@ -3,6 +3,8 @@ MaidVillager
 
 minecraft little maid mob fan mod
 
+※MaidVillager.isDebugを開発環境ではtrueにして下さい。
+
 本リポジトリの使い方
 ---------
 0. 開発環境の作成
