@@ -1,12 +1,10 @@
 package net.minecraft.client.renderer.entity;
 
-import cpw.mods.fml.common.ObfuscationReflectionHelper;
 import cpw.mods.fml.relauncher.ReflectionHelper;
+import mods.flammpfeil.maidvillager.MaidVillager;
 import mods.flammpfeil.maidvillager.ModelMaidZombie;
 import net.minecraft.client.model.ModelBase;
 import net.minecraft.client.model.ModelVillager;
-import net.minecraft.entity.monster.EntityZombie;
-import net.minecraft.src.ModLoader;
 
 public class MaidVillagerRenderAccessHelper {
 	static public void setModel(RenderVillager render, ModelBase model){
@@ -25,7 +23,7 @@ public class MaidVillagerRenderAccessHelper {
 
 		ReflectionHelper.setPrivateValue(RenderZombie.class, render, 10,"field_82431_q");
 
-		ReflectionHelper.setPrivateValue(RenderZombie.class, render, new ModelMaidZombie(), "field_82432_p");
+		ReflectionHelper.setPrivateValue(RenderZombie.class, render, new ModelMaidZombie(), (MaidVillager.isDebug ? "zombieVillagerModel" : "field_82432_p"));
 
 		ModelMaidZombie hideModel = new ModelMaidZombie();
 		hideModel.maid.root.isHidden = true;

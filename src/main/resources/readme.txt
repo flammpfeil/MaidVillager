@@ -1,29 +1,29 @@
-�����l�Ƃ�LMM���C�N�ȃ��f����mod�@byFerne.
+◇村人とかLMMライクなモデル化mod　byFerne.
 
-���T�v
-	���O�̂Ƃ���
-	�]���r�Ƃ��A������
+◆概要
+	名前のとおり
+	ゾンビとか、魔女も
 
-	���ƍ��z�c�Ƃ��ɁA�����Ă����B
+	あと座布団とかに、座ってくれる。
 
-	MMM�����쐬�����ulittleMaidMob�v��FanMod�ł��B
+	MMM氏が作成した「littleMaidMob」のFanModです。
 
-�����p����
-	�EMMM���Ɠ��nMod�̐��ҕ��֊��ӂ̋F����������Ă��������B
-	�ELMM�ɏ��������擙�ł̎g�p�A�����A�]�ڂ͎��R�B�ނ�����ׂ��B
-	�E���p���p�̓A�E�g�B
-	�E����̂܂܂Ŕz�z����܂��A�����N���邩�킩��܂��񎩌ȐӔC�g�p�������B���Ȃ�ѐӔC�����܂���B
+◆利用条件
+	・MMM氏と同系Modの先駆者方へ感謝の祈りをささげてください。
+	・LMMに準拠し動画等での使用、改造、転載は自由。むしろやるべき。
+	・商用利用はアウト。
+	・ありのままで配布されます、何が起きるかわかりません自己責任使用下さい。私ならび責任を取りません。
 
-���ݒ�
-	�T�C�Y�ύX�͑��l��p
+◆設定
+	サイズ変更は村人専用
 
 
-���e�N�X�`���ɂ���
-	��������܂���B
-	ResourcePack�����͕ҏW���������B
+◆テクスチャについて
+	同梱されません。
+	ResourcePackを自力編集ください。
 
-	Pack�ɕK�v�ȃe�N�X�`����
-	Lmm�W�����f���ɏ���
+	Packに必要なテクスチャ類
+	Lmm標準モデルに準拠
 
 assets\minecraft\textures\entity\villager\butcher.png
 assets\minecraft\textures\entity\villager\farmer.png
@@ -33,13 +33,13 @@ assets\minecraft\textures\entity\villager\smith.png
 
 assets\minecraft\textures\entity\zombie\zombie_villager.png
 
-��MaidVZW�̎d�l�ɏ���
+※MaidVZWの仕様に準拠
 assets\minecraft\textures\entity\witch.png
 
-�����lDefault�A�ǉ����l�̃e�N�X�`�����[�h�~�X�����炢�����Q�Ƃ���Ȃ��̂Ŗ����Ă�����
+※村人Default、追加村人のテクスチャロードミス時くらいしか参照されないので無くてもいい
 assets\minecraft\textures\entity\villager\villager.png
 
 
-�����̑�
-1.7.2�H
-�m��Ȃ��q�ł���...
+◆その他
+1.7.2？
+知ってる子ですね...
